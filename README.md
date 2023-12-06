@@ -30,7 +30,7 @@ we will help you find what you are looking for through our autocomplete function
 If you don't have an address, you can pan and zoom around the map to find a desired area.  Go ahead and click on this desired area and we 
 will show you living options in the area.
 
-**Video of map usage will be here**
+![Interactive Map Preview](images/safe_housing.png)
 
 <h3>Pins/Map Markers</h3>
 Pins will indicate a location on the map and will be color coded for sexual offender and their offenses.   
