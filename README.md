@@ -19,6 +19,7 @@ Folium
 Geopy
 
 <h3>Building and Running the Map</h3>
+
 ```bash
   python3 safe_housing.py
 ```
