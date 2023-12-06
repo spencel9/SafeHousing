@@ -18,6 +18,9 @@ Python Libraries needed:
 Folium
 Geopy
 
+<h3>Building and Running the Map</h3>
+```python3 safe_housing.py```
+
 <h3>Using the Map!</h3>
 To search for a known address use the search bar located in the upper right corner of the screen.  If you arent sure of the full address, 
 we will help you find what you are looking for through our autocomplete function.  
